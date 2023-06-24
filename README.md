@@ -1,4 +1,6 @@
 ## Olá, eu sou o Kevyn!
+Criando experiências web incríveis com paixão e inovação, inspirado em cada linha de código🌱
+
 ![Kevyn GitHub stats](https://github-readme-stats.vercel.app/api?username=ojesux&show_icons=true&theme=buefy&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojesux&hide_progress=true&theme=buefy)
 
